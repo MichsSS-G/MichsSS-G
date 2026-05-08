@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Михаил 👋
 
-<!--
-**MichsSS-G/MichsSS-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Java Backend Developer. Изучаю backend-разработку на Java и Spring Boot, развиваю pet-проект с микросервисной архитектурой.
 
-Here are some ideas to get you started:
+## Основной pet-проект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Problem Manager Platform
+
+[my-project](https://github.com/MichsSS-G/my-project)
+
+Backend-платформа для управления пользователями и задачами в контексте обучения алгоритмическому программированию.
+
+**Стек:** Java, Spring Boot, Spring Web, Spring Data JPA, Maven, H2/PostgreSQL, JUnit 5, Mockito.
+
+**Что реализовано:**
+
+- multi-module Maven project;
+- `user-service`;
+- `problem-service`;
+- `common` module;
+- REST API;
+- DTO + validation;
+- JPA/Hibernate;
+- global exception handling;
+- базовая ACL-модель доступа к задачам;
+- unit-тесты бизнес-логики `ProblemService`.
+
+**Проект развивается:** планирую добавить Spring Security + JWT, file storage, integration-тесты, Docker Compose и PostgreSQL.
+
+## Интересы
+
+- Java Backend
+- Spring Boot
+- REST API
+- SQL / JPA
+- Algorithms and Data Structures
+- Competitive Programming
